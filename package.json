@@ -1,51 +1,27 @@
 {
-    "title": "Freelancer",
-    "name": "startbootstrap-freelancer",
-    "version": "5.1.2",
-    "scripts": {
-        "start": "node_modules/.bin/gulp watch"
-    },
-    "description": "A freelancer portfolio HTML theme for Bootstrap.",
-    "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
-    ],
-    "homepage": "https://startbootstrap.com/template-overviews/freelancer",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer/issues",
-        "email": "feedback@startbootstrap.com"
-    },
-    "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer.git"
-    },
-    "dependencies": {
-        "@fortawesome/fontawesome-free": "5.9.0",
-        "bootstrap": "4.3.1",
-        "jquery": "3.4.1",
-        "jquery.easing": "^1.4.1",
-        "magnific-popup": "^1.1.0"
-    },
-    "devDependencies": {
-        "browser-sync": "2.26.7",
-        "del": "4.1.1",
-        "gulp": "4.0.2",
-        "gulp-autoprefixer": "6.1.0",
-        "gulp-clean-css": "4.2.0",
-        "gulp-header": "2.0.7",
-        "gulp-plumber": "^1.2.1",
-        "gulp-rename": "1.4.0",
-        "gulp-sass": "4.0.2",
-        "gulp-uglify": "3.0.2",
-        "merge-stream": "2.0.0"
-    }
+  "name": "jennifergaupel.github.io",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.3.0",
+    "@fortawesome/free-brands-svg-icons": "^6.3.0",
+    "@fortawesome/free-solid-svg-icons": "^6.3.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@next/font": "13.1.6",
+    "@types/node": "18.13.0",
+    "@types/react": "18.0.27",
+    "@types/react-dom": "18.0.10",
+    "eslint": "8.33.0",
+    "eslint-config-next": "13.1.6",
+    "next": "13.1.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "typescript": "4.9.5"
+  }
 }
