@@ -16,13 +16,14 @@ export default function About() {
           <div className='about'>
             <p>
               I am a software engineer with 5 years experience. I enjoy working collaboratively and digging into difficult problems to provide the best solution based on the needs of the company. 
-              I enjoy learning new languages and technologies. Right now I am looking to grow my skills as a developer while also contributing to a team. 
-              I worked in quality assurance for 4 years prior to becoming a developer. I have a passion for quality and testing, and I always approach my work with the end user in mind.
+              I love to learn new languages and technologies. Right now I am looking to grow my skills as a developer while also contributing to a team. 
+              I worked in quality assurance for 4 years prior to becoming an engineer. I value quality and testing, and I always approach my work with the end user in mind.
               <br/>
               <br/>
-              Outside of the workplace, I am passionate about women in tech! I have participated in our local Girl Develop It program. 
-              I am also committed to mutual aid within my community. My current passion project is a community resource finder, 
-              cincinnaticommunityresources.com, which facilitates finding Cincinnati resources for people to either give or receive aid.
+              Outside of the workplace, I am passionate about women in tech! I participate in my local Girl Develop It program. 
+              I am also committed to mutual aid within my community. My current main side project is a community resource 
+              finder, <a href="cincinnaticommunityresources.com" target={'_blank'} rel={'noreferrer'}>cincinnaticommunityresources.com</a>, 
+              which facilitates finding Cincinnati resources for people to either give or receive aid.
             </p>              
           </div>
         </main>
