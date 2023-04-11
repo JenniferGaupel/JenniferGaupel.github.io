@@ -16,8 +16,6 @@ export default function Contact() {
           <Menu></Menu>
           <div>
             <p>Send me an email at jennifergaupel@gmail.com</p>
-            <br/>
-            <p>Click <a target={"self"} href={"/JenniferGaupelResume.pdf"} download>here</a> to download my resume</p>
           </div>              
         </main>
       </>
