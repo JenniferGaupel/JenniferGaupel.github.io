@@ -16,7 +16,7 @@ export default function About() {
           <div className='about'>
             <p>
               I am a software engineer with 5 years experience. I enjoy working collaboratively and digging into difficult problems to provide the best solution based on the needs of the company. 
-              I love to learn new languages and technologies. Right now I am looking to grow my skills as a developer while also contributing to a team. 
+              I love to learn new languages and technologies. I'm currently working as a senior backend engineer with Boll & Branch.
               I worked in quality assurance for 4 years prior to becoming an engineer. I value quality and testing, and I always approach my work with the end user in mind.
               <br/>
               <br/>
